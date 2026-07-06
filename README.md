@@ -37,13 +37,13 @@ g++ main.cpp -o library
 
 ===== Library Management System =====
 
-Add Book
-Display All Books
-Search Book
-Issue Book
-Return Book
-Exit
-Enter your choice:
+- Add Book
+- Display All Books
+- Search Book
+- Issue Book
+- Return Book
+- Exit
+- Enter your choice:
 
 ## Future Improvements
 
