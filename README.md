@@ -53,7 +53,7 @@ g++ main.cpp -o library
 
 ## Author
 
-[Chernet Lire]
+Chernet Lire
 
 
 
