@@ -1,3 +1,5 @@
+//This Portfolio made by Chernet using different sources just to master in c++
+//This work prove my mastery in c++
 #include <iostream>
 #include <string>
 
